@@ -1,4 +1,4 @@
-![Project Banner](https://i.vgy.me/tZ670q.png)
+![Project Banner](https://i.vgy.me/8nwbyp.png)
 ## 🚀 Freelancer | Developer | Tech Enthusiast
 
 I’m a passionate developer focused on building high-quality, reliable, and customized solutions for communities and creators.  
@@ -41,6 +41,7 @@ Alongside freelancing, I’m open to opportunities to contribute to exciting pro
 ## Operating Systems
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 Thanks for stopping by! ⭐
