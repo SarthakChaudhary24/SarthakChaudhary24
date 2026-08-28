@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Chaudhary</h1>
 <h3 align="center">Freelancer | Developer | Recruiter | Operations Manager</h3>
 
-- 🔭 I’m currently working on **EV Trip Planner**
+- 🔭 I’m currently working on **TrackCDC**
 
 - 👨‍💻 All of my projects are available at [https://sarthakchaudhary24.github.io/portfolio/](https://sarthakchaudhary24.github.io/portfolio/)
 
